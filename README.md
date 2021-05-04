@@ -62,7 +62,7 @@
 <br />
 <br />
 
-<!-- <details>
+<details>
   <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!--START_SECTION:activity-->
@@ -73,14 +73,14 @@
 5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
 <!--END_SECTION:activity-->
 
-<!-- </details>
+</details> 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Siddhart's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Siddhart's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=W0438550&show_icons=true&hide_border=true" />
 
-</details> -->
+</details>
 
 [website]: #
 [gmail]: (mailto:soojhawonsidrye@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
