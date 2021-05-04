@@ -1,6 +1,6 @@
 ### Hi, I am Siddhart 👋
 
-## A Little About Me!!
+### A Little About Me!!
 
 - 🔭 I just completed my IT Programming Diploma at NSCC.
 - 🌱 I’m currently doing an internship at Anti-Human Trafficking Intelligence Initiative.
