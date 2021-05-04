@@ -63,10 +63,10 @@
 <br />
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary> -->
+  <summary>:zap: Recent GitHub Activity</summary> 
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/W0438550/spotify-now-playing/pull/1) in [W0438550/spotify-now-playing](https://github.com/W0438550/spotify-now-playing)
+<!-- 1. ❌ Closed PR [#1](https://github.com/W0438550/spotify-now-playing/pull/1) in [W0438550/spotify-now-playing](https://github.com/W0438550/spotify-now-playing) -->
 <!-- 2. 🗣 Commented on [#1](https://github.com/codeSTACKr/spotify-now-playing/issues/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
 3. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 4. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
