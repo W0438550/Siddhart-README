@@ -1,4 +1,4 @@
-###                                                             Hi, I am Siddhart 👋
+### Hi, I am Siddhart 👋
 
 ### A Little About Me!!
 
@@ -78,6 +78,6 @@
 </details> -->
 
 [website]: #
-[gmail]: (mailto:soojhawonsidrye@gmail.com?)
+[gmail]: (mailto:soojhawonsidrye@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 [linkedin]: https://www.linkedin.com/in/siddhart-soojhawon-w0438550
 
