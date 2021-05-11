@@ -1,4 +1,4 @@
-### Hi, I am Siddhart 👋
+### Hi there, I am Siddhart 👋
 
 ### A Little About Me...
 
